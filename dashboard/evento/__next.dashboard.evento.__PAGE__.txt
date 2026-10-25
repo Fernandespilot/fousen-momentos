@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/fousen-momentos/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:"/fousen-momentos/_next/static/chunks/25no3o3oyxjrk.js"
+6:I[29306,["$2","$5"],"default"]
+f:"$Sreact.suspense"
+10:"/fousen-momentos/_next/static/chunks/10yg4nzmm7ph7.js"
+11:"/fousen-momentos/_next/static/chunks/2174sidotkrfv.js"
+12:"/fousen-momentos/_next/static/chunks/24_5-o9idtfmp.js"
+13:I[93436,["$2","$10","$11","$12"],"EventPageClient"]
+14:I[97367,["$2"],"OutletBoundary"]
+17:"ViewportBoundary"
+18:I[97367,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:I[27201,["$2"],"IconMark"]
+:HL["/fousen-momentos/_next/static/chunks/131bag4hq25ls.css","style"]
+8:X
+b:X
+b:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$f",null,{"fallback":["$","div",null,{"className":"flex-1 min-h-dvh bg-background"}],"children":["$","$L13",null,{}]}],[["$","script","script-0",{"src":"/fousen-momentos/_next/static/chunks/10yg4nzmm7ph7.js","async":true}],["$","script","script-1",{"src":"/fousen-momentos/_next/static/chunks/2174sidotkrfv.js","async":true}],["$","script","script-2",{"src":"/fousen-momentos/_next/static/chunks/24_5-o9idtfmp.js","async":true}]],["$","$L14",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$8"}}]]
+c:[["children",{"s":"evento","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@d","v":"$b","s":"$8"},"c":"$Qe"}]]
+9:[["children",{"s":"dashboard","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/fousen-momentos/_next/static/chunks/131bag4hq25ls.css","precedence":"next"}],["$","script","script-0",{"src":"/fousen-momentos/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"pt-BR","className":"MCXf8W_variable H5NpfW_variable h-full antialiased dark","children":["$","body",null,{"className":"min-h-full flex flex-col font-sans bg-background text-foreground","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L6",null,{}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Painel do Evento | Fousen Momentos"}],["$","meta","1",{"name":"description","content":"Album colaborativo para eventos. Seus convidados fotografam, voce guarda pra sempre."}],["$","link","2",{"rel":"icon","href":"/fousen-momentos/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"geTJeyXf1XX28ae81T3Us"}
+15:null
+8:300
+1e:true
+8:C
+1d:0
+d:"$undefined"
+a:"$undefined"
+7:"$undefined"
+1c:"$undefined"
+16:"$undefined"
