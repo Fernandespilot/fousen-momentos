@@ -2,12 +2,12 @@
 2:"/fousen-momentos/_next/static/chunks/0umf92h1sb77c.js"
 3:I[39756,["$2"],"default"]
 4:I[37457,["$2"],"default"]
-5:"/fousen-momentos/_next/static/chunks/0unm_htwszcb_.js"
+5:"/fousen-momentos/_next/static/chunks/3yx_b7d1s2cyj.js"
 6:I[29306,["$2","$5"],"default"]
 d:"$Sreact.suspense"
 e:"/fousen-momentos/_next/static/chunks/0572_cp6m66pp.js"
 f:"/fousen-momentos/_next/static/chunks/2174sidotkrfv.js"
-10:"/fousen-momentos/_next/static/chunks/42b9hb0vh2w17.js"
+10:"/fousen-momentos/_next/static/chunks/1uhdpbub1khq9.js"
 11:I[95715,["$2","$e","$f","$10"],"AlbumPageClient"]
 12:I[97367,["$2"],"OutletBoundary"]
 15:"ViewportBoundary"
@@ -15,13 +15,13 @@ f:"/fousen-momentos/_next/static/chunks/2174sidotkrfv.js"
 17:"MetadataBoundary"
 18:I[97367,["$2"],"$17"]
 19:I[27201,["$2"],"IconMark"]
-:HL["/fousen-momentos/_next/static/chunks/3l6nbyb0n91gg.css","style"]
+:HL["/fousen-momentos/_next/static/chunks/1tjpxj5sast2n.css","style"]
 8:X
 b:X
 b:C
-c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$d",null,{"fallback":["$","div",null,{"className":"flex-1 min-h-dvh bg-background"}],"children":["$","$L11",null,{}]}],[["$","script","script-0",{"src":"/fousen-momentos/_next/static/chunks/0572_cp6m66pp.js","async":true}],["$","script","script-1",{"src":"/fousen-momentos/_next/static/chunks/2174sidotkrfv.js","async":true}],["$","script","script-2",{"src":"/fousen-momentos/_next/static/chunks/42b9hb0vh2w17.js","async":true}]],["$","$L12",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$8"}}]]
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$d",null,{"fallback":["$","div",null,{"className":"flex-1 min-h-dvh bg-background"}],"children":["$","$L11",null,{}]}],[["$","script","script-0",{"src":"/fousen-momentos/_next/static/chunks/0572_cp6m66pp.js","async":true}],["$","script","script-1",{"src":"/fousen-momentos/_next/static/chunks/2174sidotkrfv.js","async":true}],["$","script","script-2",{"src":"/fousen-momentos/_next/static/chunks/1uhdpbub1khq9.js","async":true}]],["$","$L12",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$8"}}]]
 9:[["children",{"s":"e","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/fousen-momentos/_next/static/chunks/3l6nbyb0n91gg.css","precedence":"next"}],["$","script","script-0",{"src":"/fousen-momentos/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"pt-BR","className":"MCXf8W_variable H5NpfW_variable PDqAya_variable h-full antialiased dark","children":["$","body",null,{"className":"min-h-full flex flex-col font-sans bg-background text-foreground","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L6",null,{}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Álbum do evento | Fousen Momentos"}],["$","meta","1",{"name":"description","content":"Álbum colaborativo para casamentos, aniversários e festas: os convidados mandam as fotos pelo QR code, sem app e sem cadastro, e tudo aparece ao vivo no telão."}],["$","link","2",{"rel":"icon","href":"/fousen-momentos/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$8"}},"a":"$@1b","u":"$@1c","b":"CjAE8fU3hu-jdPvclXvIN"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/fousen-momentos/_next/static/chunks/1tjpxj5sast2n.css","precedence":"next"}],["$","script","script-0",{"src":"/fousen-momentos/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"pt-BR","className":"MCXf8W_variable H5NpfW_variable PDqAya_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col font-sans bg-background text-foreground","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L6",null,{}],[]]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Álbum do evento | Fousen Momentos"}],["$","meta","1",{"name":"description","content":"Álbum colaborativo para casamentos, aniversários e festas: os convidados mandam as fotos pelo QR code, sem app e sem cadastro, e tudo aparece ao vivo no telão."}],["$","link","2",{"rel":"icon","href":"/fousen-momentos/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$8"}},"a":"$@1b","u":"$@1c","b":"IXC7Td2jgKcIW3bV-nMw0"}
 13:null
 8:300
 1c:true
